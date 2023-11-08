@@ -1,0 +1,10 @@
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\bin\Debug\cak.exe.config
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\bin\Debug\cak.exe
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\bin\Debug\cak.pdb
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.csproj.AssemblyReference.cache
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.Form1.resources
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.Properties.Resources.resources
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.csproj.GenerateResource.cache
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.exe
+C:\Users\rafaela.ngodoi\source\repos\passatempo\cak\cak\obj\Debug\cak.pdb
